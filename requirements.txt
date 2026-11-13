@@ -1,0 +1,10 @@
+networkx
+biopython
+pandas
+numpy
+matplotlib
+mayavi
+PyQt5
+configobj
+requests
+openpyxl
