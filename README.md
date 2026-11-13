@@ -24,7 +24,10 @@
 * **BioPython** (PDB structure parsing)
 * **Mayavi & Matplotlib** (3D interactive rendering and 2D plotting)
 * **Pandas & NumPy** (Data manipulation and numerical computing)[cite: 3, 4, 6]
+  
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+[![DOI](https://zenodo.org/badge/1456117046.svg)](https://doi.org/10.5281/zenodo.24203599)
 ---
 
 ## 📂 Project Structure
@@ -49,6 +52,4 @@ BioNet/
    git clone [https://github.com/your-username/BioNet.git](https://github.com/your-username/BioNet.git)
    cd BioNet
 ## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-[![DOI](https://zenodo.org/badge/1456117046.svg)](https://doi.org/10.5281/zenodo.24203599)
