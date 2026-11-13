@@ -48,3 +48,7 @@ BioNet/
    ```bash
    git clone [https://github.com/your-username/BioNet.git](https://github.com/your-username/BioNet.git)
    cd BioNet
+## 📄 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+[![DOI](https://zenodo.org/badge/1456117046.svg)](https://doi.org/10.5281/zenodo.24203599)
